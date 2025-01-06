@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 Im **Matias Maximiliano Alvarado Troncoso**
+Ingeniero en Informática de INACAP con experiencia en práctica
+profesional donde he aplicado los conocimientos adquiridos en mis
+años de estudio, proactivo y resolutivo con deseos de aprender
+nuevas herramientas y tecnologías para poder desarrollarme tanto
+personal como profesionalmente.
 
-<!--
-**MatiasAlvaradoTroncoso/MatiasALvaradoTroncoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔨 Technologies and Tools
+Lenguajes: Java (NetBeans), .NET, php.
+Base de datos: Oracle, Sql, MySQL.
+Idioma: Inglés (Nivel alto).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- Email: [umaty11@gmail.com](mailto:umaty11@gmail.com)
+- Phone: +569 93141612
